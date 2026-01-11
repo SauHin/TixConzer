@@ -1,9 +1,3 @@
 .metadata/
 bin/
-tmp/
 *.class
-
-*.log
-
-target/
-build/
