@@ -1,7 +1,7 @@
 # TixConzer App
 Aplikasi manajemen tiket konser berbasis Java dengan GUI menggunakan Java Swing dan sistem penyimpanan data berbasis file (CSV).
 
-[Video Demo (Google Drive Link)](https://drive.google.com/drive/u/0/my-drive?q=type:video%20parent:0ACtWOaBgqPChUk9PVA)
+[Video Demo (Google Drive Link)](https://drive.google.com/file/d/151dDT6FJfVQdzw5nKjIiuW-inq9QdPNk/view?usp=sharing)
 
 ## Key Features
 * **Visual Seat Map:** Pemilihan kursi interaktif menggunakan grid. Status kursi ditandai dengan warna:
